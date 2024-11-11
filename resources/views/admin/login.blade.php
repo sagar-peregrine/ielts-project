@@ -71,7 +71,7 @@
 
                             <div class="col-12">
                                 <div class="mb-4">
-                                    <a href="home" class="btn btn-secondary w-100">SIGN IN</a>
+                                    <a href="/admin/home" class="btn btn-secondary w-100">SIGN IN</a>
                                 </div>
                             </div>
 
