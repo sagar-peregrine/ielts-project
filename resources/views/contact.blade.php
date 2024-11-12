@@ -95,7 +95,7 @@
                             <div class="col-12">
                                 <div class="form-floating">
                                     <input type="text" class="form-control" id="phone" placeholder="Enter Phone" name="phone">
-                                    <label for="subject">Subject</label>
+                                    <label for="subject">Phone Number</label>
                                 </div>
                             </div>
                             <div class="col-12">
