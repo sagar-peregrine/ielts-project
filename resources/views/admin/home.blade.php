@@ -4,14 +4,14 @@
     <div id="content" class="main-content">
         <div class="layout-px-spacing">
 
-            <div class="middle-content container-xxl p-0">
+            <div class="middle-content p-0">
 
                 <div class="row layout-top-spacing">
 
                     <div class="col-xl-4 col-lg-12 col-md-12 col-sm-12 col-12 layout-spacing">
                         <div class="widget widget-six">
                             <div class="widget-heading">
-                                <h6 class="">Statistics</h6>
+                                <h6 class="">Students</h6>
                                 <div class="task-action">
                                     <div class="dropdown">
                                         <a class="dropdown-toggle" href="#" role="button" id="statistics" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -28,7 +28,7 @@
                             <div class="w-chart">
                                 <div class="w-chart-section">
                                     <div class="w-detail">
-                                        <p class="w-title">Total Visits</p>
+                                        <p class="w-title">Total Students</p>
                                         <p class="w-stats">423,964</p>
                                     </div>
                                     <div class="w-chart-render-one">
@@ -38,7 +38,7 @@
 
                                 <div class="w-chart-section">
                                     <div class="w-detail">
-                                        <p class="w-title">Paid Visits</p>
+                                        <p class="w-title">Total Paid Students</p>
                                         <p class="w-stats">7,929</p>
                                     </div>
                                     <div class="w-chart-render-one">
@@ -55,7 +55,7 @@
                             <div class="widget-content">
                                 <div class="w-header">
                                     <div class="w-info">
-                                        <h6 class="value">Expenses</h6>
+                                        <h6 class="value">Course Charges</h6>
                                     </div>
                                     <div class="task-action">
                                         <div class="dropdown">

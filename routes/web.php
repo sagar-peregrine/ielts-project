@@ -42,6 +42,17 @@ Route::prefix('admin')->group(function () {
         return view('admin.vocab');
     }) ;
 
+    Route::get('/introduction', function () {
+        return view('admin.intro');
+    }) ;
+    Route::get('/score', function () {
+        return view('admin.score');
+    }) ;
+
+    Route::get('/speaking', function () {
+        return view('admin.speaking');
+    }) ;
+
     Route::get('/logout', function () {
         return view('admin.login');
     });

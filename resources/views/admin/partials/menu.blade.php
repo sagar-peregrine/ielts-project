@@ -7,7 +7,7 @@
             <div class="nav-logo">
                 <div class="nav-item theme-logo">
                     <a href="./index.html">
-                        <img src="../src/assets/img/logo.svg" class="navbar-logo" alt="logo">
+                        <img src="../src/assets/img/ielts-logo.png" class="navbar-logo" alt="logo">
                     </a>
                 </div>
                 <div class="nav-item theme-text">
@@ -57,13 +57,22 @@
                 </a>
                 <ul class="collapse submenu list-unstyled" id="invoice" data-bs-parent="#accordionExample">
                     <li>
+                        <a href="introduction"> Introduction </a>
+                    </li>
+                    <li>
                         <a href="reading"> Reading </a>
                     </li>
                     <li>
                         <a href="writing"> Writing </a>
                     </li>
                     <li>
-                        <a href="vocabulary"> Vocabulary </a>
+                        <a href="vocabulary"> Listening </a>
+                    </li>
+                    <li>
+                        <a href="speaking"> Speaking </a>
+                    </li>
+                    <li>
+                        <a href="score"> Score Branding </a>
                     </li>
 
                 </ul>

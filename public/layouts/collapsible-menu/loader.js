@@ -112,18 +112,18 @@ window.addEventListener("load", function(){
             if (document.body.getAttribute('layout') !== 'full-width') {
                 document.body.classList.add('layout-boxed');
                 if (document.querySelector('.header-container')) {
-                    document.querySelector('.header-container').classList.add('container-xxl');
+                    document.querySelector('.header-container').classList.add('');
                 }
                 if (document.querySelector('.middle-content')) {
-                    document.querySelector('.middle-content').classList.add('container-xxl');
+                    document.querySelector('.middle-content').classList.add('');
                 }
             } else {
                 document.body.classList.remove('layout-boxed');
                 if (document.querySelector('.header-container')) {
-                    document.querySelector('.header-container').classList.remove('container-xxl');
+                    document.querySelector('.header-container').classList.remove('');
                 }
                 if (document.querySelector('.middle-content')) {
-                    document.querySelector('.middle-content').classList.remove('container-xxl');
+                    document.querySelector('.middle-content').classList.remove('');
                 }
             }
 
@@ -140,18 +140,18 @@ window.addEventListener("load", function(){
             if (document.body.getAttribute('layout') !== 'boxed') {
                 document.body.classList.remove('layout-boxed');
                 if (document.querySelector('.header-container')) {
-                    document.querySelector('.header-container').classList.remove('container-xxl');
+                    document.querySelector('.header-container').classList.remove('');
                 }
                 if (document.querySelector('.middle-content')) {
-                    document.querySelector('.middle-content').classList.remove('container-xxl');
+                    document.querySelector('.middle-content').classList.remove('');
                 }
             } else {
                 document.body.classList.add('layout-boxed');
                 if (document.querySelector('.header-container')) {
-                    document.querySelector('.header-container').classList.add('container-xxl');
+                    document.querySelector('.header-container').classList.add('');
                 }
                 if (document.querySelector('.middle-content')) {
-                    document.querySelector('.middle-content').classList.add('container-xxl');
+                    document.querySelector('.middle-content').classList.add('');
                 }
             }
         }

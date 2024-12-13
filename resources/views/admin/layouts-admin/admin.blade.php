@@ -35,7 +35,7 @@
 <!--  END LOADER -->
 
 <!--  BEGIN NAVBAR  -->
-<div class="header-container container-xxl">
+<div class="header-container ">
     <header class="header navbar navbar-expand-sm expand-header">
 
         <a href="javascript:void(0);" class="sidebarCollapse">
