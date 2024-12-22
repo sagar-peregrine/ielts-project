@@ -55,7 +55,7 @@
             <a href="/courses" class="nav-item nav-link {{ (Route::currentRouteName() == 'courses') ? 'active' : '' }}">courses</a>
             <a href="/contact" class="nav-item nav-link {{ (Route::currentRouteName() == 'contact') ? 'active' : '' }}">Contact</a>
         </div>
-        <a href="/login" class="btn btn-primary py-4 px-lg-5 d-none d-lg-block">Sign In<i class="fa fa-arrow-right ms-3"></i></a>
+        <a href="{{route('sign-in')}}" class="btn btn-primary py-4 px-lg-5 d-none d-lg-block">Sign In<i class="fa fa-arrow-right ms-3"></i></a>
     </div>
 </nav>
 <!-- Navbar End -->

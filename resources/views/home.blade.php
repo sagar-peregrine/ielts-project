@@ -13,7 +13,7 @@
                                 <h1 class="display-3 text-white animated slideInDown">Start your future with IELTS</h1>
                                 <p class="fs-5 text-white mb-4 pb-2">IELTS is the world’s most popular English language test for higher education and global migration.</p>
                                 <a href="" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Read More</a>
-                                <a href="/login" class="btn btn-light py-md-3 px-md-5 animated slideInRight">Sign In</a>
+                                <a href="{{route('sign-in')}}" class="btn btn-light py-md-3 px-md-5 animated slideInRight">Sign In</a>
                             </div>
                         </div>
                     </div>
@@ -29,7 +29,7 @@
                                 <h1 class="display-3 text-white animated slideInDown">Studies can be fun too, IELTS Made its easy.</h1>
                                 <p class="fs-5 text-white mb-4 pb-2">Great Tutors. Right Results! Get Desired Score in IELTS Exam.</p>
                                 <a href="" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Read More</a>
-                                <a href="/login" class="btn btn-light py-md-3 px-md-5 animated slideInRight">Sign In</a>
+                                <a href="{{route('sign-in')}}" class="btn btn-light py-md-3 px-md-5 animated slideInRight">Sign In</a>
                             </div>
                         </div>
                     </div>
@@ -204,7 +204,7 @@
                             <img class="img-fluid" src="img/course-1.jpg" alt="">
                             <div class="w-100 d-flex justify-content-center position-absolute bottom-0 start-0 mb-4">
                                 <a href="#" class="flex-shrink-0 btn btn-sm btn-primary px-3 border-end" style="border-radius: 30px 0 0 30px;">Read More</a>
-                                <a href="/login" class="flex-shrink-0 btn btn-sm btn-primary px-3" style="border-radius: 0 30px 30px 0;">Sign In</a>
+                                <a href="{{route('sign-in')}}" class="flex-shrink-0 btn btn-sm btn-primary px-3" style="border-radius: 0 30px 30px 0;">Sign In</a>
                             </div>
                         </div>
                         <div class="text-center p-4 pb-0">
@@ -232,7 +232,7 @@
                             <img class="img-fluid" src="img/course-2.jpg" alt="">
                             <div class="w-100 d-flex justify-content-center position-absolute bottom-0 start-0 mb-4">
                                 <a href="#" class="flex-shrink-0 btn btn-sm btn-primary px-3 border-end" style="border-radius: 30px 0 0 30px;">Read More</a>
-                                <a href="/login" class="flex-shrink-0 btn btn-sm btn-primary px-3" style="border-radius: 0 30px 30px 0;">Sign In</a>
+                                <a href="{{route('sign-in')}}" class="flex-shrink-0 btn btn-sm btn-primary px-3" style="border-radius: 0 30px 30px 0;">Sign In</a>
                             </div>
                         </div>
                         <div class="text-center p-4 pb-0">
@@ -260,7 +260,7 @@
                             <img class="img-fluid" src="img/course-3.jpg" alt="">
                             <div class="w-100 d-flex justify-content-center position-absolute bottom-0 start-0 mb-4">
                                 <a href="#" class="flex-shrink-0 btn btn-sm btn-primary px-3 border-end" style="border-radius: 30px 0 0 30px;">Read More</a>
-                                <a href="/login" class="flex-shrink-0 btn btn-sm btn-primary px-3" style="border-radius: 0 30px 30px 0;">Sign In</a>
+                                <a href="{{route('sign-in')}}" class="flex-shrink-0 btn btn-sm btn-primary px-3" style="border-radius: 0 30px 30px 0;">Sign In</a>
                             </div>
                         </div>
                         <div class="text-center p-4 pb-0">
