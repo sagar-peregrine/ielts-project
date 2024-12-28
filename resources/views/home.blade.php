@@ -4,7 +4,7 @@
         .whatsapp-float {
             position: fixed;
             bottom: 99px;
-            right: 82px;
+            right: 25px;
             z-index: 1000;
             display: flex;
             align-items: center;
