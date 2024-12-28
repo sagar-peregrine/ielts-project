@@ -36,7 +36,8 @@ Route::prefix('admin')->group(function () {
     })->name('calendar');
 
     Route::get('/home', function () {
-        return view('admin.home');
+        $courses = \App\Models\CourseCalendar::latest()->get();
+        return view('admin.home', compact('courses'));
     })->name('admin-home');
 
     Route::get('/reading', function () {

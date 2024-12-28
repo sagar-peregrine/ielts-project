@@ -79,4 +79,10 @@ class CalendarController extends Controller
         $contact->save();
         return redirect()->route('calendar')->with('success', 'Contact updated successfully.');
     }
+
+    public function getCalendarData(): \Illuminate\Http\JsonResponse
+    {
+        $data = CourseCalendar::latest()->get();
+        return response()->json($data);
+    }
 }
