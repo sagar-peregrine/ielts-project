@@ -15,7 +15,7 @@
 
                 <div class="row layout-top-spacing">
                     @if(auth()->user()->id == 1)
-                        <div class="col-xl-4 col-lg-12 col-md-12 col-sm-12 col-12 layout-spacing">
+                        {{--<div class="col-xl-4 col-lg-12 col-md-12 col-sm-12 col-12 layout-spacing">
                             <div class="widget widget-six">
                                 <div class="widget-heading">
                                     <h6 class="">Students</h6>
@@ -128,7 +128,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div>--}}
                     @endif
 
 
