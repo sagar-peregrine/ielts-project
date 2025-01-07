@@ -59,7 +59,7 @@
                                 <h5 class="text-primary text-uppercase mb-3 animated slideInDown">Best Online Courses</h5>
                                 <h1 class="display-3 text-white animated slideInDown">Start your future with IELTS</h1>
                                 <p class="fs-5 text-white mb-4 pb-2">IELTS is the world’s most popular English language test for higher education and global migration.</p>
-                                <a href="" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Read More</a>
+                                <a href="/success" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Read More</a>
                                 <a href="{{route('sign-in')}}" class="btn btn-light py-md-3 px-md-5 animated slideInRight">Sign In</a>
                             </div>
                         </div>
@@ -75,7 +75,7 @@
                                 <h5 class="text-primary text-uppercase mb-3 animated slideInDown">Flexible Batch and Online Training</h5>
                                 <h1 class="display-3 text-white animated slideInDown">Studies can be fun too, IELTS Made its easy.</h1>
                                 <p class="fs-5 text-white mb-4 pb-2">Great Tutors. Right Results! Get Desired Score in IELTS Exam.</p>
-                                <a href="" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Read More</a>
+                                <a href="/success" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Read More</a>
                                 <a href="{{route('sign-in')}}" class="btn btn-light py-md-3 px-md-5 animated slideInRight">Sign In</a>
                             </div>
                         </div>
