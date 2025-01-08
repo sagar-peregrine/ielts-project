@@ -30,14 +30,14 @@
             <div class="row g-4">
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <h5>Get In Touch</h5>
-                    <p class="mb-4">The contact form is currently inactive. Get a functional and working contact form with Ajax & PHP in a few minutes. Just copy and paste the files, add a little code and you're done. <a href="https://htmlcodex.com/contact-form">Download Now</a>.</p>
+                    <p class="mb-4">Looking to achieve your desired IELTS band score? 📚🎯 Whether you're preparing for academic or general training, IELTS India Coaching Center is here to guide you every step of the way! We offer personalized coaching to help you excel in the IELTS exam.</p>
                     <div class="d-flex align-items-center mb-3">
                         <div class="d-flex align-items-center justify-content-center flex-shrink-0 bg-primary" style="width: 50px; height: 50px;">
                             <i class="fa fa-map-marker-alt text-white"></i>
                         </div>
                         <div class="ms-3">
                             <h5 class="text-primary">Office</h5>
-                            <p class="mb-0">123 Street, New York, USA</p>
+                            <p class="mb-0">Kunal Kumar,NRI City Plots, Greater Noida, Delhi, India, 201310</p>
                         </div>
                     </div>
                     <div class="d-flex align-items-center mb-3">
@@ -46,7 +46,7 @@
                         </div>
                         <div class="ms-3">
                             <h5 class="text-primary">Mobile</h5>
-                            <p class="mb-0">+012 345 67890</p>
+                            <p class="mb-0">+91 9625685494, +91 9540862023</p>
                         </div>
                     </div>
                     <div class="d-flex align-items-center">
@@ -55,13 +55,13 @@
                         </div>
                         <div class="ms-3">
                             <h5 class="text-primary">Email</h5>
-                            <p class="mb-0">info@example.com</p>
+                            <p class="mb-0">ieltsindia05@gmail.com</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                     <iframe class="position-relative rounded w-100 h-100"
-                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3001156.4288297426!2d-78.01371936852176!3d42.72876761954724!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4ccc4bf0f123a5a9%3A0xddcfc6c1de189567!2sNew%20York%2C%20USA!5e0!3m2!1sen!2sbd!4v1603794290143!5m2!1sen!2sbd"
+                            src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d12569.994868217582!2d77.51236724853516!3d28.46358299255371!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2s!4v1704800000000"
                             frameborder="0" style="min-height: 300px; border:0;" allowfullscreen="" aria-hidden="false"
                             tabindex="0"></iframe>
                 </div>
